@@ -23,3 +23,7 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+
+### Cucumber jars ###
+/src/test/cucumber/jars/
